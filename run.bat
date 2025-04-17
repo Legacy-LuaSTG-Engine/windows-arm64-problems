@@ -10,3 +10,9 @@ cmake --build build --config Release
 @echo -------------------------------- 01-hello-world --------------------------------
 
 build\problems\01-hello-world\Release\01-hello-world.exe
+
+:: 02-luajit
+
+@echo ---------------------------------- 02-luajit -----------------------------------
+
+build\_deps\luajit2-build\Release\luajit.exe -e "print('Hello world!')"
