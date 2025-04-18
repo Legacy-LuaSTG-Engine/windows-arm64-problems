@@ -16,3 +16,9 @@ build\problems\01-hello-world\Release\01-hello-world.exe
 @echo ---------------------------------- 02-luajit -----------------------------------
 
 build\_deps\luajit2-build\Release\luajit.exe -e "print('Hello world!')"
+
+:: 03-pcg-random
+
+@echo -------------------------------- 03-pcg-random ------------ --------------------
+
+build\problems\03-pcg-random\Release\03-pcg-random.exe
