@@ -9,7 +9,7 @@ CPMAddPackage(
     NAME pcg_random
     VERSION 2025.4.18
     GITHUB_REPOSITORY Legacy-LuaSTG-Engine/pcg-cpp
-    GIT_TAG 1c007b703993594268060e19d8869e22593f9bff
+    GIT_TAG c4c6fae22e8edd9558f785af8d8b520d726787df
     DOWNLOAD_ONLY ON
 )
 
